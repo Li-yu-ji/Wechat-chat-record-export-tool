@@ -1,4 +1,4 @@
-# WeChat Chat History Exporter
+# WeChat Chat History Exporter [中文](https://github.com/Li-yu-ji/Wechat-chat-record-export-tool/blob/main/README.md) [English](https://github.com/Li-yu-ji/Wechat-chat-record-export-tool/blob/main/English-README.md) [日本語](https://github.com/Li-yu-ji/Wechat-chat-record-export-tool/blob/main/Japan-README.md)
 
 A tool for exporting WeChat chat history, helping you backup and view your WeChat conversations.
 
