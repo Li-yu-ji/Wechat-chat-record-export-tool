@@ -1,4 +1,4 @@
-# 微信聊天记录导出器                                     [中文](https://github.com/Li-yu-ji/Wechat-chat-record-export-tool/blob/main/README.md)
+# 微信聊天记录导出器 [中文](https://github.com/Li-yu-ji/Wechat-chat-record-export-tool/blob/main/README.md)
 
 
 
